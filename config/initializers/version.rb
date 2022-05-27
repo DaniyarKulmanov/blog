@@ -1,5 +1,7 @@
-module Version
+# frozen_string_literal: true
+
+module Versioning
   class Application
-    VERSION = '0.1.7'
+    VERSION = '0.1.1.1'
   end
 end
